@@ -5,17 +5,13 @@
 BMI = kg/m2  //where kg is a person’s weight in kilograms and m2 is their height in metres squared.
 
 ```
-###### Tools
-- flutter framework
-- Dart Language
-- Android Stuido
-
-
-
-
 ![demo1](demo1.PNG)
 
 
 
 ![demo2](demo2.PNG)
 
+###### Tools
+- flutter framework
+- Dart Language
+- Android Stuido
