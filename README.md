@@ -1,4 +1,4 @@
-# Basic Flutter Application with beautiful UI
+# Basic Flutter Application with Beautiful UI
 
 #### Come up with basic funtion to calculate your BMI with the help of basic BMI formula:
 ```
@@ -8,6 +8,8 @@ BMI = kg/m2  //where kg is a person’s weight in kilograms and m2 is their heig
 ###### Tools
 - flutter framework
 - Dart Language
+- Android Stuido
+
 
 
 
