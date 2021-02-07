@@ -1,4 +1,4 @@
-# Basic Flitter Application with beautiful UI
+# Basic Flutter Application with beautiful UI
 
 ## Come up with basic funtion to calculate your BMI with the help of basic BMI formula:
 ```
