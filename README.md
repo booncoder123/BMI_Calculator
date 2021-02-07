@@ -14,3 +14,6 @@ BMI = kg/m2  //where kg is a person’s weight in kilograms and m2 is their heig
 ![demo1](demo1.PNG)
 
 
+
+![demo2](demo2.PNG)
+
